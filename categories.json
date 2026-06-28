@@ -1,0 +1,522 @@
+[
+  {
+    "category_id": "cat_000",
+    "name": "Miller Group",
+    "subcategories": [
+      {
+        "subcategory_id": "sub_000_00",
+        "name": "Monetize Cross-Platform Users",
+        "profit_margin": 0.44
+      },
+      {
+        "subcategory_id": "sub_000_01",
+        "name": "Grow Scalable Channels",
+        "profit_margin": 0.34
+      },
+      {
+        "subcategory_id": "sub_000_02",
+        "name": "Utilize Collaborative Methodologies",
+        "profit_margin": 0.24
+      },
+      {
+        "subcategory_id": "sub_000_03",
+        "name": "Streamline Sticky Architectures",
+        "profit_margin": 0.31
+      }
+    ]
+  },
+  {
+    "category_id": "cat_001",
+    "name": "Anderson, Hess and Gillespie",
+    "subcategories": [
+      {
+        "subcategory_id": "sub_001_00",
+        "name": "Reinvent Customized E-Business",
+        "profit_margin": 0.43
+      },
+      {
+        "subcategory_id": "sub_001_01",
+        "name": "Seize Extensible Supply-Chains",
+        "profit_margin": 0.21
+      },
+      {
+        "subcategory_id": "sub_001_02",
+        "name": "Transition 24/365 Web Services",
+        "profit_margin": 0.23
+      },
+      {
+        "subcategory_id": "sub_001_03",
+        "name": "Exploit Strategic Bandwidth",
+        "profit_margin": 0.38
+      }
+    ]
+  },
+  {
+    "category_id": "cat_002",
+    "name": "White-Stark",
+    "subcategories": [
+      {
+        "subcategory_id": "sub_002_00",
+        "name": "Target Mission-Critical Bandwidth",
+        "profit_margin": 0.38
+      },
+      {
+        "subcategory_id": "sub_002_01",
+        "name": "Monetize Plug-And-Play Info-Mediaries",
+        "profit_margin": 0.33
+      },
+      {
+        "subcategory_id": "sub_002_02",
+        "name": "Enhance Magnetic Eyeballs",
+        "profit_margin": 0.39
+      },
+      {
+        "subcategory_id": "sub_002_03",
+        "name": "Cultivate Back-End Relationships",
+        "profit_margin": 0.36
+      }
+    ]
+  },
+  {
+    "category_id": "cat_003",
+    "name": "Tate-Munoz",
+    "subcategories": [
+      {
+        "subcategory_id": "sub_003_00",
+        "name": "Facilitate World-Class Bandwidth",
+        "profit_margin": 0.34
+      },
+      {
+        "subcategory_id": "sub_003_01",
+        "name": "Synthesize Proactive Partnerships",
+        "profit_margin": 0.28
+      },
+      {
+        "subcategory_id": "sub_003_02",
+        "name": "Syndicate One-To-One Convergence",
+        "profit_margin": 0.33
+      },
+      {
+        "subcategory_id": "sub_003_03",
+        "name": "Syndicate Plug-And-Play Communities",
+        "profit_margin": 0.25
+      }
+    ]
+  },
+  {
+    "category_id": "cat_004",
+    "name": "Gutierrez, Oliver and Kelley",
+    "subcategories": [
+      {
+        "subcategory_id": "sub_004_00",
+        "name": "Enable Sticky Interfaces",
+        "profit_margin": 0.23
+      },
+      {
+        "subcategory_id": "sub_004_01",
+        "name": "Transition Sticky Vortals",
+        "profit_margin": 0.23
+      },
+      {
+        "subcategory_id": "sub_004_02",
+        "name": "Engage Intuitive Content",
+        "profit_margin": 0.16
+      },
+      {
+        "subcategory_id": "sub_004_03",
+        "name": "Incubate Plug-And-Play Interfaces",
+        "profit_margin": 0.17
+      }
+    ]
+  },
+  {
+    "category_id": "cat_005",
+    "name": "Young, Bates and Miller",
+    "subcategories": [
+      {
+        "subcategory_id": "sub_005_00",
+        "name": "Syndicate Integrated Partnerships",
+        "profit_margin": 0.43
+      },
+      {
+        "subcategory_id": "sub_005_01",
+        "name": "Facilitate Best-Of-Breed Applications",
+        "profit_margin": 0.27
+      },
+      {
+        "subcategory_id": "sub_005_02",
+        "name": "Brand User-Centric Networks",
+        "profit_margin": 0.18
+      },
+      {
+        "subcategory_id": "sub_005_03",
+        "name": "Generate Cross-Platform Users",
+        "profit_margin": 0.15
+      }
+    ]
+  },
+  {
+    "category_id": "cat_006",
+    "name": "George Ltd",
+    "subcategories": [
+      {
+        "subcategory_id": "sub_006_00",
+        "name": "Re-Contextualize Holistic Initiatives",
+        "profit_margin": 0.13
+      },
+      {
+        "subcategory_id": "sub_006_01",
+        "name": "Benchmark Plug-And-Play Vortals",
+        "profit_margin": 0.4
+      },
+      {
+        "subcategory_id": "sub_006_02",
+        "name": "Engage Mission-Critical Systems",
+        "profit_margin": 0.14
+      },
+      {
+        "subcategory_id": "sub_006_03",
+        "name": "Reinvent Extensible Interfaces",
+        "profit_margin": 0.37
+      }
+    ]
+  },
+  {
+    "category_id": "cat_007",
+    "name": "Hernandez, Schmidt and Price",
+    "subcategories": [
+      {
+        "subcategory_id": "sub_007_00",
+        "name": "Transition Enterprise Vortals",
+        "profit_margin": 0.39
+      },
+      {
+        "subcategory_id": "sub_007_01",
+        "name": "Synthesize Leading-Edge Infrastructures",
+        "profit_margin": 0.41
+      },
+      {
+        "subcategory_id": "sub_007_02",
+        "name": "Architect Global Applications",
+        "profit_margin": 0.11
+      },
+      {
+        "subcategory_id": "sub_007_03",
+        "name": "Productize Clicks-And-Mortar Eyeballs",
+        "profit_margin": 0.22
+      }
+    ]
+  },
+  {
+    "category_id": "cat_008",
+    "name": "Smith, Downs and Powell",
+    "subcategories": [
+      {
+        "subcategory_id": "sub_008_00",
+        "name": "Maximize Customized Solutions",
+        "profit_margin": 0.37
+      },
+      {
+        "subcategory_id": "sub_008_01",
+        "name": "Architect Turn-Key Content",
+        "profit_margin": 0.15
+      },
+      {
+        "subcategory_id": "sub_008_02",
+        "name": "Maximize Seamless E-Commerce",
+        "profit_margin": 0.23
+      },
+      {
+        "subcategory_id": "sub_008_03",
+        "name": "Unleash Cross-Media Infrastructures",
+        "profit_margin": 0.16
+      }
+    ]
+  },
+  {
+    "category_id": "cat_009",
+    "name": "Reynolds PLC",
+    "subcategories": [
+      {
+        "subcategory_id": "sub_009_00",
+        "name": "Enable Distributed Markets",
+        "profit_margin": 0.39
+      },
+      {
+        "subcategory_id": "sub_009_01",
+        "name": "Disintermediate Scalable Synergies",
+        "profit_margin": 0.37
+      },
+      {
+        "subcategory_id": "sub_009_02",
+        "name": "Unleash Synergistic Initiatives",
+        "profit_margin": 0.38
+      },
+      {
+        "subcategory_id": "sub_009_03",
+        "name": "Cultivate Front-End Web-Readiness",
+        "profit_margin": 0.16
+      }
+    ]
+  },
+  {
+    "category_id": "cat_010",
+    "name": "Peters LLC",
+    "subcategories": [
+      {
+        "subcategory_id": "sub_010_00",
+        "name": "Strategize Turn-Key Architectures",
+        "profit_margin": 0.25
+      },
+      {
+        "subcategory_id": "sub_010_01",
+        "name": "Strategize Enterprise E-Commerce",
+        "profit_margin": 0.24
+      },
+      {
+        "subcategory_id": "sub_010_02",
+        "name": "Incubate Killer Web Services",
+        "profit_margin": 0.34
+      },
+      {
+        "subcategory_id": "sub_010_03",
+        "name": "Reinvent Collaborative Channels",
+        "profit_margin": 0.18
+      }
+    ]
+  },
+  {
+    "category_id": "cat_011",
+    "name": "Kim, Branch and Miller",
+    "subcategories": [
+      {
+        "subcategory_id": "sub_011_00",
+        "name": "E-Enable Next-Generation Eyeballs",
+        "profit_margin": 0.26
+      },
+      {
+        "subcategory_id": "sub_011_01",
+        "name": "Envisioneer End-To-End Channels",
+        "profit_margin": 0.2
+      },
+      {
+        "subcategory_id": "sub_011_02",
+        "name": "Implement Intuitive Experiences",
+        "profit_margin": 0.36
+      },
+      {
+        "subcategory_id": "sub_011_03",
+        "name": "Utilize B2B Models",
+        "profit_margin": 0.26
+      }
+    ]
+  },
+  {
+    "category_id": "cat_012",
+    "name": "Perez-Coleman",
+    "subcategories": [
+      {
+        "subcategory_id": "sub_012_00",
+        "name": "Visualize Next-Generation Bandwidth",
+        "profit_margin": 0.29
+      },
+      {
+        "subcategory_id": "sub_012_01",
+        "name": "Productize Cutting-Edge E-Business",
+        "profit_margin": 0.21
+      },
+      {
+        "subcategory_id": "sub_012_02",
+        "name": "Reinvent Ubiquitous Mindshare",
+        "profit_margin": 0.38
+      },
+      {
+        "subcategory_id": "sub_012_03",
+        "name": "Brand Customized Architectures",
+        "profit_margin": 0.26
+      }
+    ]
+  },
+  {
+    "category_id": "cat_013",
+    "name": "Carpenter Ltd",
+    "subcategories": [
+      {
+        "subcategory_id": "sub_013_00",
+        "name": "Implement Rich Action-Items",
+        "profit_margin": 0.39
+      },
+      {
+        "subcategory_id": "sub_013_01",
+        "name": "Unleash Real-Time E-Markets",
+        "profit_margin": 0.23
+      },
+      {
+        "subcategory_id": "sub_013_02",
+        "name": "Re-Contextualize Bricks-And-Clicks Paradigms",
+        "profit_margin": 0.43
+      },
+      {
+        "subcategory_id": "sub_013_03",
+        "name": "Integrate Compelling Relationships",
+        "profit_margin": 0.44
+      }
+    ]
+  },
+  {
+    "category_id": "cat_014",
+    "name": "Mccoy-Alvarado",
+    "subcategories": [
+      {
+        "subcategory_id": "sub_014_00",
+        "name": "Evolve B2B Deliverables",
+        "profit_margin": 0.26
+      },
+      {
+        "subcategory_id": "sub_014_01",
+        "name": "Iterate Efficient Bandwidth",
+        "profit_margin": 0.2
+      },
+      {
+        "subcategory_id": "sub_014_02",
+        "name": "Mesh Strategic Deliverables",
+        "profit_margin": 0.23
+      },
+      {
+        "subcategory_id": "sub_014_03",
+        "name": "Matrix E-Business Action-Items",
+        "profit_margin": 0.28
+      }
+    ]
+  },
+  {
+    "category_id": "cat_015",
+    "name": "Hunt-Harrison",
+    "subcategories": [
+      {
+        "subcategory_id": "sub_015_00",
+        "name": "Repurpose Intuitive Methodologies",
+        "profit_margin": 0.44
+      },
+      {
+        "subcategory_id": "sub_015_01",
+        "name": "Whiteboard Extensible E-Business",
+        "profit_margin": 0.39
+      },
+      {
+        "subcategory_id": "sub_015_02",
+        "name": "Streamline Cross-Platform Users",
+        "profit_margin": 0.38
+      },
+      {
+        "subcategory_id": "sub_015_03",
+        "name": "Revolutionize Value-Added Info-Mediaries",
+        "profit_margin": 0.15
+      }
+    ]
+  },
+  {
+    "category_id": "cat_016",
+    "name": "Brown-Kennedy",
+    "subcategories": [
+      {
+        "subcategory_id": "sub_016_00",
+        "name": "Drive Open-Source E-Markets",
+        "profit_margin": 0.19
+      },
+      {
+        "subcategory_id": "sub_016_01",
+        "name": "Seize Distributed Technologies",
+        "profit_margin": 0.32
+      },
+      {
+        "subcategory_id": "sub_016_02",
+        "name": "Leverage Robust Metrics",
+        "profit_margin": 0.41
+      },
+      {
+        "subcategory_id": "sub_016_03",
+        "name": "Extend Seamless Networks",
+        "profit_margin": 0.29
+      }
+    ]
+  },
+  {
+    "category_id": "cat_017",
+    "name": "Anderson-Campbell",
+    "subcategories": [
+      {
+        "subcategory_id": "sub_017_00",
+        "name": "Leverage Scalable Web Services",
+        "profit_margin": 0.14
+      },
+      {
+        "subcategory_id": "sub_017_01",
+        "name": "Envisioneer Proactive Technologies",
+        "profit_margin": 0.4
+      },
+      {
+        "subcategory_id": "sub_017_02",
+        "name": "Synthesize Strategic Channels",
+        "profit_margin": 0.4
+      },
+      {
+        "subcategory_id": "sub_017_03",
+        "name": "Deliver Intuitive Niches",
+        "profit_margin": 0.2
+      }
+    ]
+  },
+  {
+    "category_id": "cat_018",
+    "name": "Patton-Young",
+    "subcategories": [
+      {
+        "subcategory_id": "sub_018_00",
+        "name": "Iterate Dot-Com Synergies",
+        "profit_margin": 0.37
+      },
+      {
+        "subcategory_id": "sub_018_01",
+        "name": "Extend One-To-One Metrics",
+        "profit_margin": 0.2
+      },
+      {
+        "subcategory_id": "sub_018_02",
+        "name": "Reinvent B2C Web Services",
+        "profit_margin": 0.42
+      },
+      {
+        "subcategory_id": "sub_018_03",
+        "name": "Grow Out-Of-The-Box Roi",
+        "profit_margin": 0.15
+      }
+    ]
+  },
+  {
+    "category_id": "cat_019",
+    "name": "Guerrero Ltd",
+    "subcategories": [
+      {
+        "subcategory_id": "sub_019_00",
+        "name": "Reinvent Robust Supply-Chains",
+        "profit_margin": 0.25
+      },
+      {
+        "subcategory_id": "sub_019_01",
+        "name": "Evolve B2B Metrics",
+        "profit_margin": 0.43
+      },
+      {
+        "subcategory_id": "sub_019_02",
+        "name": "Re-Contextualize B2C Models",
+        "profit_margin": 0.18
+      },
+      {
+        "subcategory_id": "sub_019_03",
+        "name": "Engineer Transparent Architectures",
+        "profit_margin": 0.26
+      }
+    ]
+  }
+]
